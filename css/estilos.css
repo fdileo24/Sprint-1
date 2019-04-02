@@ -1,4 +1,17 @@
+body{
+    background-color: black;
+}
+
 .center_div__{
     margin: 0 auto;
     width:80%;
+}
+
+.navbar-brand {
+    color: red  !important;
+    font-size: 1.5em;
+}
+
+.logo_{
+    font-family: 'Pacifico', cursive;
 }
