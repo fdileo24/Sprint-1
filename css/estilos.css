@@ -15,3 +15,56 @@ body{
 .logo_{
     font-family: 'Pacifico', cursive;
 }
+
+#maincontainer{
+    background-color:black;
+}
+
+#collapseOne{
+    color: #EF1369;
+    background-color: black;    
+}
+
+#card {
+    border: none;
+}
+
+#headingOne{
+    background-color:black;
+    
+}
+
+#btn-title{
+    text-decoration: none;
+    color:#EF1369;
+    font-size: 25px;
+    
+}
+
+#btn-title:hover{
+color: rgb(82, 80, 80);
+
+}
+
+.icon{
+    color:black;
+}
+
+.titulo{
+    background-image: url(../img/Ser-Formador-preguntas-y-re-630x315.jpg);
+    height: 300px;
+    padding-top: 80px;
+    
+}
+
+h1{
+    font-size:4.5rem;
+    line-height: 1.2;
+    text-align: center;
+    color: black;
+    background-color: rgba(0, 0, 0, 0.3) ;
+}
+
+
+
+
