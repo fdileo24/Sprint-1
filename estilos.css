@@ -1,0 +1,176 @@
+body{
+    background-color: black;
+}
+
+.bodyhome{
+    background-image: url(../img/Pizelex.jpg);
+    font-family: 'Encode Sans', sans-serif;
+}
+.card{
+    text-align: center;
+    color: white;
+}
+.card-title{
+    font-size: 2.5em;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.subtitulo{
+    font-size: 1.5em;
+    text-align: end;
+}Page Title
+.about{
+    color:#B0B0B0 ;
+}
+img{
+    height: 10%;
+}
+.amor{
+    width: 100%;
+    height: auto;
+}
+
+.center_div__{
+    margin: 0 auto;
+    width:80%;
+}
+
+.navbar-brand {
+    color: red  !important;
+    font-size: 1.5em;
+}
+
+.logo_{
+    font-family: 'Pacifico', cursive;
+}
+
+a{
+    color: gray;
+}
+.amarillo{
+    color: black;
+
+}
+.botella{
+        width: 10em;
+        height: 10em;
+}
+.jugar{
+    padding: 2px;
+    margin: 5px;
+    height: 45%;
+    width: 100%;
+}
+.play{
+    font-size: 1.5em;
+    font-family: 'Pacifico', cursive;
+    color: red;
+}
+.play:hover{
+    color: green;
+
+}
+.tituloabout{
+    font-size: 2em;
+    font-family: 'Pacifico', cursive;
+
+}
+.about{
+    font-size: 1em;
+}
+.howto{
+    width: 100%;
+    height: 10%;
+    margin: 2px;
+}
+.pie{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+
+.center_div__{
+    margin: 0 auto;
+    width:80%;
+}
+
+.navbar-brand {
+    color: red  !important;
+    font-size: 1.5em;
+}
+
+.bg-dark{
+    background-color: black !important;
+}
+
+.logo_{
+    font-family: 'Pacifico', cursive;
+}
+
+#maincontainer{
+    background-color:black;
+}
+
+#collapseOne{
+    color: black;
+    background-color:#B4C4DB;   
+}
+
+#card {
+    border: none;
+    background-image: url(../img/Pizelex.jpg);
+}
+
+.card-header{
+    text-align: start;
+}
+
+#btn-title{
+    text-decoration: none;
+    color:black;
+    font-size: 25px;
+    
+}
+
+#btn-title:hover{
+color: #007bff;
+
+}
+
+.icon{
+    color:black;
+}
+
+#titulo{
+    background-image: url(../img/Colorful-holiday-lights-wood-board_3840x2160.jpg);
+    background-size: cover;
+    height: 500px;
+    padding-top: 80px;
+    
+}
+
+h1{
+    font-size:5.5rem;
+    line-height: 3.2;
+    text-align: center;
+    color:#007bff;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Bangers', cursive;
+    font-family: 'Paytone One', sans-serif;
+    background-color: rgba(0, 0, 0, 0.3) ;
+}
+
+.nav-link:hover{
+    color:#007bff !important;
+}
+
+
+
+@media(max-width: 800px){
+    h1{
+        font-size: 6vh;
+    }
+}
